@@ -26,8 +26,8 @@ POPKID is a multi-device bot designed to enhance your WhatsApp conversations wit
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zkscan.onrender.com)  <br>
-   [Session-2](https://zokouscan.onrender.com) <br>
+   [Session-1](https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/pair)  <br>
+   [Session-2](https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/qr) <br>
 
 
 3. Deploy
